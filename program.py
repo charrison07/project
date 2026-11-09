@@ -1,6 +1,14 @@
 import random
 
-#We used ChatGPT for coding
+# Brennan Bates & CJ Harrison
+# 11/9/2026
+# We used ChatGPT for coding - we gave it a general idea of NFL Trivia.
+# It gaves us multiple versions to decide what we liked and what we didn't like.
+# We took the sample code and ran it and told AI what we liked and what we did not like.
+# ChatGPT continued to make changes as we asked it to until we got to the final product.
+# This prograam is NFL Trivia. There are multiple levels: Easy, Medium and Hard.
+# Once you finish one round it gives you a score and asks if you would like to play again.
+# After choosing to be done, the program outputs an overall score and thanks the user for playing.
 
 easy_questions = [
     ["How many points is a touchdown worth?",
