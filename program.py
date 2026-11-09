@@ -1,7 +1,6 @@
 import random
 
-# Questions are grouped by difficulty.
-# Each question contains four options and a correct answer.
+#We used ChatGPT for coding
 
 easy_questions = [
     ["How many points is a touchdown worth?",
